@@ -1,3 +1,3 @@
 // the configured options and settings for Tutorial
-#define Pacstaller_VERSION_MAJOR @Pacstaller_VERSION_MAJOR@
-#define Pacstaller_VERSION_MINOR @Pacstaller_VERSION_MINOR@
+#define pacstaller_VERSION_MAJOR @pacstaller_VERSION_MAJOR@
+#define pacstaller_VERSION_MINOR @pacstaller_VERSION_MINOR@

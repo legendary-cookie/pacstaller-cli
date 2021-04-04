@@ -14,8 +14,7 @@ int main(int argc, char **argv) {
   }
   if (argc < 2) {
     // report version
-    std::cout << argv[0] << " Version " << Pacstaller_VERSION_MAJOR << "."
-              << Pacstaller_VERSION_MINOR << std::endl;
+    std::cout << argv[0] << " Version " << pacstaller_VERSION_MAJOR << "." << pacstaller_VERSION_MINOR << std::endl;
     std::cout << "Usage: " << argv[0] << " [pacman package]" << std::endl;
     return 1;
   } else {
